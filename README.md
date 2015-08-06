@@ -1,2 +1,2 @@
 # sburb
-sburb game
+for now this is just some design docs
